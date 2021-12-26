@@ -9,3 +9,8 @@
     --first-color-second: hs1(var(--hue-color),69%,61%)
     --first-color-alt: hs1(var(--hue-color),69%,61%)
 }
+footer{
+    margin:0;
+    padding:10px;
+    background: black ;
+}
